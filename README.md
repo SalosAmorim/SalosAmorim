@@ -1,16 +1,15 @@
-## Hi there 👋
+# Oi! 👋
+Sou **Salos Amorim**, apaixonado por programação e jogos, duas paixões que sempre andaram juntas. Meu primeiro contato com código foi no editor de fases do Arma3, onde descobri o poder da programação. Desde então, me aprofundei em Python e, atualmente, estou focado no desenvolvimento web, estudando HTML5 e CSS3 para dar vida a ideias na web!
+## Estudo 📖
+Atualmente estou estudando:
+- ✅✅🟨⬛⬛ - HTML/CSS 3/5
 
-<!--
-**SalosAmorim/SalosAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+próximos passos:
+- ⬛⬛⬛⬛⬛ - JavaScript
+- ⬛⬛⬛⬛⬛ - WordPress
+  
 
-Here are some ideas to get you started:
+## Contato
+- [Instagram](https://www.instagram.com/salospereira_/)
+- [LinkedIn](https://www.linkedin.com/in/salos-amorim-03219b25a/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
