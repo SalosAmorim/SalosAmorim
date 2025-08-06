@@ -3,7 +3,7 @@ Sou **Salos Amorim**, apaixonado por programação e jogos, duas paixões que se
 ## Estudo 📖
 Atualmente estou estudando:
 - ✅✅✅✅🟨 - HTML/CSS  [ 4/5 ] - O curso atualmente não está completo.
-- ✅🟨⬛⬛⬛⬛ - JavaScript  [ 1/6 ]
+- ✅✅🟨⬛⬛⬛ - JavaScript  [ 2/6 ]
 
 próximos passos:
 - ⬛⬛⬛⬛⬛ - WordPress
